@@ -132,7 +132,7 @@ function shuffle(array) {
 /* init browse page */
 
 /* randomize items once at page load */
-shuffle(items);
+// shuffle(items);
 
 /* set some elements */ 
 var loadingIcon = document.querySelector("#loadingIcon");
@@ -141,7 +141,7 @@ var filterButton = document.querySelector("#filterButton");
 var browseItemsDiv = document.querySelector("#browseItems");
 
 /* filter if hash in initial URL */
-var query = "";
+var query = "title";
 if(window.location.hash) {
     query = decodeURIComponent(location.hash.substr(1));
     filterTextBox.value = query;
