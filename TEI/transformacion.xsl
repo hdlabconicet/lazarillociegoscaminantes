@@ -140,7 +140,7 @@
 
         <xsl:template match="//pb">
         <span class="folio"> 
-            (P. <xsl:value-of select="@n"/>)
+            (<xsl:value-of select="@n"/>)
         </span>
     </xsl:template>
 
