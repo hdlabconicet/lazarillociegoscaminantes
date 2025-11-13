@@ -99,7 +99,7 @@ bootswatch: spacelab
 base-font-size: 1.3em
 text-color: "#000"
 link-color: "#0f5bbe"
-base-font-family: garamond
+base-font-family: Georgia
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
 # THEME ICONS [optional!]
