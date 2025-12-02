@@ -1,2 +1,2 @@
-# plantilla-colecciones
-Plantilla para construir sitios estáticos para colecciones documentales, desarrollada por el HDLab-CONICET. 
+# Edición digital del Lazarillo de ciegos caminantes
+Este repositorio se encuetra destinado a alojar la edición digital del "Lazarillo de ciegos camianates", de Alonso Carrió de la Vandera, desarrollada por los y las estudiantes de la materia de Humenaidades Digitales del Departamento de Historia de la Universidad Torcuato Di Tella.  Realizado con plantilla para construir sitios estáticos para colecciones documentales, desarrollada por el HDLab-CONICET. 
