@@ -12,17 +12,17 @@ credits: true
 
 ## Sobre la edición
 
-Este proyecto surge de la colaboración del **<a href="https://hdlab.space/" target="_blank">Laboratorio de Humanidades Digitales del CONICET</a>** y el **<a href="https://www.utdt.edu/ver_contenido.php?id_contenido=103&id_item_menu=438" target="_blank">Departamento de Estudios Históricos y Sociales</a>** de la **Universidad Torcuato Di Tella**, para el dictado de una materia de Humanidades Digitales, a cargo de la Dra. Gimena del Rio Riande y el Lic. Gabriel Calarco. En este curso, se le propuso a los estudiantes crear una edición digital en lenguaje XML-TEI que cuente con notas al pie interactivas, locaciones georreferenciadas y material adicional como imágenes. A continuación se detalla el trabajo realizado por cada grupo y las y los integrantes que lo componen.
+Este proyecto surge de la colaboración del **<a href="https://hdlab.space/" target="_blank">Laboratorio de Humanidades Digitales del CONICET</a>** y el **<a href="https://www.utdt.edu/ver_contenido.php?id_contenido=103&id_item_menu=438" target="_blank">Departamento de Estudios Históricos y Sociales</a>** de la **Universidad Torcuato Di Tella**, para el dictado de una materia de Humanidades Digitales, a cargo de la Dra. Gimena del Rio Riande y el Dr. Gabriel Calarco. En este curso, se le propuso a los estudiantes crear una edición digital en lenguaje XML-TEI que cuente con notas al pie interactivas, locaciones georreferenciadas y material adicional como imágenes. A continuación se detalla el trabajo realizado por cada grupo y las y los integrantes que lo componen.
 
 ## Grupo 1
 
 <b><a href="https://courtadepilar-coder.github.io/repositorioprueba/" target="_blank">De Montevideo a Buenos Aires (Ir al sitio del grupo)</a></b>
 
 <ul>
-    <li><hi>Arreguez Matías Lujan Daniel (Universidad Torcuato Di Tella)</a></hi></li>
+    <li><hi>Arreguez Matías Lujan Daniel (Universidad Torcuato Di Tella)</hi></li>
     <li><hi><a href="https://www.linkedin.com/in/pilar-courtade-5221b0215?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ">Courtade Guerras María del Pilar (Universidad Torcuato Di Tella)</a></hi></li>
     <li><hi><a href="https://www.linkedin.com/in/sofia-tamburro-0831a5352/">Tamburro Sofía (Universidad Torcuato Di Tella)</a></hi></li>
-    <li><hi>Terazzolo María Josefina (Universidad Torcuato Di Tella)</a></hi></li>
+    <li><hi>Terazzolo María Josefina (Universidad Torcuato Di Tella)</hi></li>
 </ul>
 
 <p>El proyecto de edicion se baso en digitalizar la cronica de viaje El Lazarillo de Ciegos Caminantes del autor Alonso Carrio de la Vandera publcado en el año 1773 en la ciudad de Lima, Peru. Este libro describe el itinerario desde Montevideo hasta Lima, pasando por lugares como Buenos Aires, Cordoba y Cuzco, reflejando la vida cotidiana, las costumbres y la geografia del paisaje. En esta oportunidad, se trabajaron las secciones que incluyen desde Montevideo hasta Buenos Aires. A cada integrante se le asignaron folios especificos, sobre los cuales cada uno identifico atributos de lugares, personas y notas a traves de la plataforma Visual Studio Code. Luego, cada folio fue incorporado a un archivo TEI general que fue la base para realizar esta pagina web utilizando Jekyll y una plantilla Collection Builder.</p>
@@ -67,7 +67,6 @@ Finalmente, en una cuarta etapa, realizamos modificaciones en el sitio web para 
     <li><hi><a href="https://www.linkedin.com/in/luna-feit/" target = "_blank">Luna Feit (UTDT)</a></hi></li>
 </ul>
 
-a presente edición digital consiste en el capítulo “Jurisdicción de Córdova”, del *Lazarillo de Ciegos Caminantes*, publicado en 1773 por **Alonso Carrió de la Vandera**. El texto pertenece al periodo del reformismo borbónico e intentó ser una descripción fidedigna de las colonias americanas para los lectores españoles, siendo este un género de publicación típico de la época. Este capítulo relata, en forma de crónica de viajes, el recorrido desde Córdoba hasta Santiago del Estero, donde el autor registra las distintas postas que conformaban el Camino Real en tiempos coloniales, tales como el Saladillo de Ruy Diaz, Fraile Muerto y Sinsacate.  
-<br/>
+la presente edición digital consiste en el capítulo “Jurisdicción de Córdova”, del *Lazarillo de Ciegos Caminantes*, publicado en 1773 por **Alonso Carrió de la Vandera**. El texto pertenece al periodo del reformismo borbónico e intentó ser una descripción fidedigna de las colonias americanas para los lectores españoles, siendo este un género de publicación típico de la época. Este capítulo relata, en forma de crónica de viajes, el recorrido desde Córdoba hasta Santiago del Estero, donde el autor registra las distintas postas que conformaban el Camino Real en tiempos coloniales, tales como el Saladillo de Ruy Diaz, Fraile Muerto y Sinsacate.  
 <br/>
 Este proyecto surge de la colaboración del **<a href="https://hdlab.space/" target="_blank">Laboratorio de Humanidades Digitales del CONICET</a>** y el **<a href="https://www.utdt.edu/ver_contenido.php?id_contenido=103&id_item_menu=438" target="_blank">Departamento de Estudios Históricos y Sociales</a>** de la **Universidad Torcuato Di Tella**, a través de la materia “Humanidades Digitales”. En este curso, se le propuso a los estudiantes crear una edición digital en lenguaje XML-TEI que cuente con notas al pie interactivas, locaciones georreferenciadas y material adicional como imágenes. 
