@@ -8,13 +8,13 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="Sobre la edición;Grupo 1;Grupo 2;Grupo 3;" %}
+{% include feature/nav-menu.html sections="Sobre la edición;Grupo 1 (2025);Grupo 2 (2025);Grupo 3 (2025);Grupo 1 (2026);Grupo 2 (2026);" %}
 
 ## Sobre la edición
 
 Este proyecto surge de la colaboración del **<a href="https://hdlab.space/" target="_blank">Laboratorio de Humanidades Digitales del CONICET</a>** y el **<a href="https://www.utdt.edu/ver_contenido.php?id_contenido=103&id_item_menu=438" target="_blank">Departamento de Estudios Históricos y Sociales</a>** de la **Universidad Torcuato Di Tella**, para el dictado de una materia de Humanidades Digitales, a cargo de la Dra. Gimena del Rio Riande y el Dr. Gabriel Calarco. En este curso, se le propuso a los estudiantes crear una edición digital en lenguaje XML-TEI que cuente con notas al pie interactivas, locaciones georreferenciadas y material adicional como imágenes. A continuación se detalla el trabajo realizado por cada grupo y las y los integrantes que lo componen.
 
-## Grupo 1
+## Grupo 1 (2025)
 
 <b><a href="https://courtadepilar-coder.github.io/repositorioprueba/" target="_blank">De Montevideo a Buenos Aires (Ir al sitio del grupo)</a></b>
 
@@ -29,7 +29,7 @@ Este proyecto surge de la colaboración del **<a href="https://hdlab.space/" tar
 <p>A la hora de elaborar esta visualizacion, recurrimos a Github para hacer una copia de respaldo y tener registro de cada cambio. Ademas, a partir de una plantilla hicimos un itinerario georeferenciado con los lugares transitados de nuestra seccion. Para ultimar detalles, modificamos cuestiones esteticas del sitio web. </p>
 
 
-## Grupo 2
+## Grupo 2 (2025)
 
 <b><a href="https://claracaputo-mor.github.io/plantilla-hd-1/" target="_blank">Notas a la región de Buenos Aires (Ir al sitio del grupo)</a></b>
 
@@ -55,7 +55,7 @@ En una tercera etapa, nos ocupamos de la visualización del texto. Para ello, re
 Finalmente, en una cuarta etapa, realizamos modificaciones en el sitio web para agregar nuestra impronta y estética. Completamos textos sobre cómo fue la edición, cambiamos la imagen de portada y elegimos una paleta de colores que nos pareció adecuada para la temática, entre otros cambios. Este proceso se realizó a lo largo de todo el cuatrimestre con el que dio fruto a nuestro sitio sobre el apartado Nota del Lazarillo de ciegos caminantes.  
 
 
-## Grupo 3
+## Grupo 3 (2025)
 
 <b><a href="https://cosarinskysol-boop.github.io/Grupo3-G3-I6/" target="_blank">Jurisdicción de Córdoba (Ir al sitio del grupo)</a></b>
 
@@ -70,3 +70,37 @@ Finalmente, en una cuarta etapa, realizamos modificaciones en el sitio web para 
 La presente edición digital consiste en el capítulo “Jurisdicción de Córdova”, del *Lazarillo de Ciegos Caminantes*, publicado en 1773 por **Alonso Carrió de la Vandera**. El texto pertenece al periodo del reformismo borbónico e intentó ser una descripción fidedigna de las colonias americanas para los lectores españoles, siendo este un género de publicación típico de la época. Este capítulo relata, en forma de crónica de viajes, el recorrido desde Córdoba hasta Santiago del Estero, donde el autor registra las distintas postas que conformaban el Camino Real en tiempos coloniales, tales como el Saladillo de Ruy Diaz, Fraile Muerto y Sinsacate.  
 <br/>
 Este proyecto surge de la colaboración del **<a href="https://hdlab.space/" target="_blank">Laboratorio de Humanidades Digitales del CONICET</a>** y el **<a href="https://www.utdt.edu/ver_contenido.php?id_contenido=103&id_item_menu=438" target="_blank">Departamento de Estudios Históricos y Sociales</a>** de la **Universidad Torcuato Di Tella**, a través de la materia “Humanidades Digitales”. En este curso, se le propuso a los estudiantes crear una edición digital en lenguaje XML-TEI que cuente con notas al pie interactivas, locaciones georreferenciadas y material adicional como imágenes. 
+
+## Grupo 1 (2026)
+
+<b><a href="https://agustinakern.github.io/lazarillo_2026/" target="_blank">Santiago del Estero y Jurisdicción de San Miguel de Tucumán (Ir al sitio del grupo)</a></b>
+
+**Integrantes**
+
+*Sánchez Artaza, Ana*<br/>
+*Lupinacci, Francesca*<br/>
+*Kern, Agustina*<br/>
+*Patti, Renata*<br/>
+
+
+Nuestra edición digital de *El lazarillo de ciegos caminantes* es un proyecto realizado por cuatro estudiantes de Humanidades Digitales, que nace del interés por explorar cómo las herramientas digitales pueden ofrecer nuevas formas de leer, conocer y estudiar una obra del siglo XVIII. Pensamos esta edición para estudiantes, docentes, personas interesadas en la literatura y la historia de América Latina y para quienes se acercan por primera vez a este texto y necesitan algunos puntos de referencia para acompañar su lectura. 
+Nuestro propósito es facilitar el acceso a la obra y brindar herramientas para comprender su contexto histórico, geográfico y cultural, sin que sea necesario contar con conocimientos especializados. Entendemos esta edición como una experiencia de aprendizaje y de trabajo colaborativo, en la que las decisiones sobre la transcripción, la anotación y la presentación de los materiales forman parte de una reflexión sobre cómo transmitir el patrimonio cultural en entornos digitales.
+Cada una de las integrantes del grupo fuimos asignadas una determinada cantidad de folios del *Lazarillo de ciegos caminantes* desde K1 a L2. A partir de eso, realizamos una lectura del texto y vinculamos las transcripciones con las imágenes de la edición impresa e incorporamos notas explicativas, información sobre los personajes mencionados y referencias a los lugares que aparecen a lo largo del recorrido. Estos recursos buscan ayudar a comprender palabras poco habituales, reconocer nombres propios y situar los espacios del relato, permitiendo que cada persona explore el texto según sus intereses y construya su propio itinerario de lectura.
+
+## Grupo 2 (2026)
+
+<b><a href="https://sofisetuain-hd.github.io/viajeros_caminantes/" target="_blank">San Miguel de Tucumán (Ir al sitio del grupo)</a></b>
+
+**Integrantes**
+
+*Francisco Areta Close*<br/>
+*Joaquín Emanuel Carrizo*<br/>
+*Jacinta Casabal Pereda*<br/>
+*Sofia Emma Setuain*<br/>
+*Camila Perez Sande*<br/>
+
+<p class="justificado"> Esta es una edición digital, a partir de la digitalización del libro 'El Lazarillo de Ciegos Caminantes desde Buenos Aires hasta Lima', escrito por Alonso Carrió de la Vandera y publicado por la Imprenta de la Rovada el año de 1773.
+Este trabajo en particular, compila y edita los folios digitalizados desde el L3 hasta el M8, dentro de los capítulos “Santiago del Estero” y “Jurisdicción de San Miguel de Tucuman”, por un grupo de estudiantes de la Universidad Torcuato di Tella. El capítulo sigue el recorrido de Alonso desde la Del Cachi hasta Vinará y, desde Vinará hasta El Pozo del Pescado.</p>
+<p class="justificado">Este sitio se hizo en el marco de la materia "Humanidades Digitales" en la Universidad Torcuato Di Tella. El grupo editor está compuesto por 5 estudiantes del tercer año de diversas licenciaturas y con distintos enfoques profesionales. 
+Francisco Areta Close es un estudiante de la Lic. Historia. Joaquín Emanuel Carrizo, Jacinta Casabal Pereda y Camila Perez Sande se encuentran cursando la Lic. Ciencias Sociales, con diversas orientaciones. Sofia Emma Setuain, a diferencia de los primeros, se encuentra en la Lic. Economía Empresarial.</p> 
+
